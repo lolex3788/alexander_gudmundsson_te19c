@@ -24,5 +24,5 @@ print(Procent)
 
 
 
-
+# visa plot
 plt.show()
